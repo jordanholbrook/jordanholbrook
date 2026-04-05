@@ -2,7 +2,7 @@
 
 * I'm Jordan, an economist and data scientist based in Jakarta 🇮🇩
 * I earned my PhD in Economics from the University of Houston 
-* I'm an Economist at the Economic Research Institute for ASEAN and East-Asia [ERIA](https://www.eria.org/) studying how workers and institutions adapt to economic transformation 🌏
+* I work at the Economic Research Institute for ASEAN and East-Asia [ERIA](https://www.eria.org/) studying how workers and institutions adapt to economic transformation 🌏
 * My research interests span labor economics, health economics, and digital development 
 * I like building things with data as much as writing about it 🛠️
 
